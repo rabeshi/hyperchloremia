@@ -4,3 +4,4 @@ matplotlib
 seaborn
 plotly
 openai
+scikit-learn==0.24.2
