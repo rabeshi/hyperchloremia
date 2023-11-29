@@ -259,7 +259,7 @@ with tab3:
             return response.choices[0].text.strip()
 
         # Set your API key
-        openai.api_key = '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'
+        openai.api_key = 'xxxxxxxxxxxxxxxxxxxxx'
 
         # Streamlit App
         def main():
